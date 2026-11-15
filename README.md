@@ -21,3 +21,5 @@ The report is available in the [report-mathathon repository](https://github.com/
 ### Presentation and Slides
 
 The presentation as well as the final report are [here](https://www.overleaf.com/project/6af9e78fe99d9136ba2216a8/share#cacaaa043bcdac6fcf29d95aa0c6ceb9c2828735f80a45ca).
+
+The slides are also available in the [slides-mathathon repository](https://github.com/SaachiKaup/slides-mathathon).

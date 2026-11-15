@@ -13,3 +13,6 @@
 [submodule "report-mathathon"]
 	path = report-mathathon
 	url = https://github.com/SaachiKaup/report-mathathon.git
+[submodule "slides-mathathon"]
+	path = slides-mathathon
+	url = https://github.com/SaachiKaup/slides-mathathon.git
