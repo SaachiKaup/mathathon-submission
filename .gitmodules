@@ -10,3 +10,6 @@
 [submodule "Semantic-Bidirectional-Verification-for-Lean-Formalisation"]
 	path = Semantic-Bidirectional-Verification-for-Lean-Formalisation
 	url = https://github.com/aastha-guptaa/Semantic-Bidirectional-Verification-for-Lean-Formalisation.git
+[submodule "report-mathathon"]
+	path = report-mathathon
+	url = https://github.com/SaachiKaup/report-mathathon.git

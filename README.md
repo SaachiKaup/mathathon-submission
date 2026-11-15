@@ -14,6 +14,10 @@ This repository is a collection of our work. We have the following submodules:
 3. [proof-docs-platform](https://github.com/SaachiKaup/proof-docs-platform) : A documentation platform built for the competition.
 4. [Semantic-Bidirectional-Verification-for-Lean-Formalisation](https://github.com/aastha-guptaa/Semantic-Bidirectional-Verification-for-Lean-Formalisation) : Bidirectional Verification for lean proofs.
 
+### Reports
+
+The report is available in the [report-mathathon repository](https://github.com/SaachiKaup/report-mathathon).
+
 ### Presentation and Slides
 
-Both the presentation and the final report are [here](https://www.overleaf.com/project/6af9e78fe99d9136ba2216a8/share#cacaaa043bcdac6fcf29d95aa0c6ceb9c2828735f80a45ca).
+The presentation as well as the final report are [here](https://www.overleaf.com/project/6af9e78fe99d9136ba2216a8/share#cacaaa043bcdac6fcf29d95aa0c6ceb9c2828735f80a45ca).
