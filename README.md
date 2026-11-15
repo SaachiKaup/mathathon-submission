@@ -9,9 +9,10 @@ Our problem statement selected is [here](https://competition.sair.foundation/com
 
 This repository is a collection of our work. We have the following submodules:
 
-1. caltech-mathathon-spa : Artifacts from our chats in OpenMathOS Platform.
-2. interrupt-harness : An MCP Server built on top of the Platform API of OpenMathOS. 
-3. proofs-docs-platform : A documentation platform built for the competition.
+1. [caltech-mathathon-spa](https://github.com/SaachiKaup/caltech-mathathon-spa) : Artifacts from our chats in OpenMathOS Platform.
+2. [interrupt-harness](https://github.com/SaachiKaup/interrupt-harness) : An MCP Server built on top of the Platform API of OpenMathOS. 
+3. [proof-docs-platform](https://github.com/SaachiKaup/proof-docs-platform) : A documentation platform built for the competition.
+4. [Semantic-Bidirectional-Verification-for-Lean-Formalisation](https://github.com/aastha-guptaa/Semantic-Bidirectional-Verification-for-Lean-Formalisation) : Bidirectional Verification for lean proofs.
 
 ### Presentation and Slides
 
