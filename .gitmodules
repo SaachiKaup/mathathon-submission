@@ -1,0 +1,9 @@
+[submodule "interrupt-harness"]
+	path = interrupt-harness
+	url = https://github.com/SaachiKaup/interrupt-harness.git
+[submodule "proof-docs-platform"]
+	path = proof-docs-platform
+	url = https://github.com/SaachiKaup/proof-docs-platform.git
+[submodule "caltech-mathathon-spa"]
+	path = caltech-mathathon-spa
+	url = https://github.com/SaachiKaup/caltech-mathathon-spa.git
